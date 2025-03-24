@@ -1,9 +1,4 @@
-"""
-The purpose of this file is to generate a comprehensive README.md for the project.
-When executed, it will create a README.md file in the current directory.
-"""
-
-readme_content = """# Supply Chain Forecasting with Graph Neural Networks
+# Supply Chain Forecasting with Graph Neural Networks
 
 ## Project Overview
 This repository implements and compares various Graph Neural Network (GNN) architectures for supply chain demand forecasting, with a focus on leveraging network relationships between products to improve prediction accuracy. The project demonstrates how GNNs can capture complex interdependencies in supply chains that traditional forecasting methods miss.
